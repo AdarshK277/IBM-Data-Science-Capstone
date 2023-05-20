@@ -9,11 +9,16 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 * Collecting required data from an API.
 * Performing some basic data wrangling and formatting.
 
-### 2. Data Collection Using WebScraping (BeautifulSoup)
-* Extract Falcon 9 launch records HTML table from Wikipedia.
+### 2. Data Collection Using WebScraping
+* Webscrape a Falcon 9 launch record HTML table from Wikipedia using BeautifulSoup.
 * Parse the table and convert it into a Pandas DataFrame.
 
 ### 3. Data Wrangling
 Performing some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
-* Exploratory Data Analysis
+* Exploratory Data Analysis (EDA).
 * Determine training labels.
+
+### 4. Exploratory Data Analysis with SQL
+* Exploratory Data Analysis (EDA).
+* Load the dataset into the corresponding table in a Db2 database.
+* Execute SQL queries to answer questions and gain insight.
