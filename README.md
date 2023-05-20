@@ -8,3 +8,7 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 ### 1. Data Collection Using SpaceX REST API
 * Collecting required data from an API.
 * Performing some basic data wrangling and formatting.
+
+### 2. Data Collection Using WebScraping (BeautifulSoup)
+* Extract Falcon 9 launch records HTML table from Wikipedia.
+* Parse the table and convert it into a Pandas DataFrame.
