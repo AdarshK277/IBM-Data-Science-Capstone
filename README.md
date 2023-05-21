@@ -30,3 +30,10 @@ Performing some Exploratory Data Analysis (EDA) to find some patterns in the dat
 ### 6. Interactive Visual Analytics and Dashboards
 * Launch site location analysis using Folium.
 * Creating interative dashboards using Plotly Dash.
+
+### 7. Machine Learning - Classification
+* Create a column for the class.
+* Standardize the data.
+* Split into training and testing data.
+* Find the best Hyperparameter for SVM, Classification Trees and Logistic Regression.
+* Find the method which performs best using test data.
