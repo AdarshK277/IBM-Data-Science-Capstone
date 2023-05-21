@@ -23,6 +23,6 @@ Performing some Exploratory Data Analysis (EDA) to find some patterns in the dat
 * Load the dataset into the corresponding table in a Db2 database.
 * Execute SQL queries to answer questions and gain insight.
 
-### 5. Exploratory Data Analysis, and Feature Engineering Using Pandas, and Data Visualization using Matplotlib and Seaborn (Optional)
+### 5. Exploratory Data Analysis, and Feature Engineering Using Pandas, and Data Visualization Using Matplotlib and Seaborn (Optional)
 * Performing EDA and Feature Engineering using Pandas.
 * Performing Data Visualization using Matplotlib and Seaborn.
