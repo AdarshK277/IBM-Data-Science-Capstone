@@ -32,8 +32,10 @@ Performing some Exploratory Data Analysis (EDA) to find some patterns in the dat
 * Creating interative dashboards using Plotly Dash.
 
 ### 7. Machine Learning - Classification
-* Create a column for the class.
-* Standardize the data.
-* Split into training and testing data.
-* Find the best Hyperparameter for SVM, Classification Trees and Logistic Regression.
+* Standardize the data using StandardScaler.
+* Split into training and testing data sets.
+* Hyperparameter Tuning for Logistic Regression, SVM, Decision Trees and k-Nearest Neighbors using GridSearchCV.
 * Find the method which performs best using test data.
+
+### 8. Presenting Findings
+* Create a PowerPoint file to present findings of the project.
